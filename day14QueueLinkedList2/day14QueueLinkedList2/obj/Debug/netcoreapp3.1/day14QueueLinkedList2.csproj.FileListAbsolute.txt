@@ -1,0 +1,14 @@
+C:\Users\63not\source\repos\day14QueueLinkedList2\day14QueueLinkedList2\bin\Debug\netcoreapp3.1\day14QueueLinkedList2.exe
+C:\Users\63not\source\repos\day14QueueLinkedList2\day14QueueLinkedList2\bin\Debug\netcoreapp3.1\day14QueueLinkedList2.deps.json
+C:\Users\63not\source\repos\day14QueueLinkedList2\day14QueueLinkedList2\bin\Debug\netcoreapp3.1\day14QueueLinkedList2.runtimeconfig.json
+C:\Users\63not\source\repos\day14QueueLinkedList2\day14QueueLinkedList2\bin\Debug\netcoreapp3.1\day14QueueLinkedList2.runtimeconfig.dev.json
+C:\Users\63not\source\repos\day14QueueLinkedList2\day14QueueLinkedList2\bin\Debug\netcoreapp3.1\day14QueueLinkedList2.dll
+C:\Users\63not\source\repos\day14QueueLinkedList2\day14QueueLinkedList2\bin\Debug\netcoreapp3.1\day14QueueLinkedList2.pdb
+C:\Users\63not\source\repos\day14QueueLinkedList2\day14QueueLinkedList2\obj\Debug\netcoreapp3.1\day14QueueLinkedList2.csproj.AssemblyReference.cache
+C:\Users\63not\source\repos\day14QueueLinkedList2\day14QueueLinkedList2\obj\Debug\netcoreapp3.1\day14QueueLinkedList2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63not\source\repos\day14QueueLinkedList2\day14QueueLinkedList2\obj\Debug\netcoreapp3.1\day14QueueLinkedList2.AssemblyInfoInputs.cache
+C:\Users\63not\source\repos\day14QueueLinkedList2\day14QueueLinkedList2\obj\Debug\netcoreapp3.1\day14QueueLinkedList2.AssemblyInfo.cs
+C:\Users\63not\source\repos\day14QueueLinkedList2\day14QueueLinkedList2\obj\Debug\netcoreapp3.1\day14QueueLinkedList2.csproj.CoreCompileInputs.cache
+C:\Users\63not\source\repos\day14QueueLinkedList2\day14QueueLinkedList2\obj\Debug\netcoreapp3.1\day14QueueLinkedList2.dll
+C:\Users\63not\source\repos\day14QueueLinkedList2\day14QueueLinkedList2\obj\Debug\netcoreapp3.1\day14QueueLinkedList2.pdb
+C:\Users\63not\source\repos\day14QueueLinkedList2\day14QueueLinkedList2\obj\Debug\netcoreapp3.1\day14QueueLinkedList2.genruntimeconfig.cache

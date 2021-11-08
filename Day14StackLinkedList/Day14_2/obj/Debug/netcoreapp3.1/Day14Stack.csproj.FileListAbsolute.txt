@@ -1,0 +1,14 @@
+C:\Users\63not\source\repos\Day14_2\Day14_2\bin\Debug\netcoreapp3.1\Day14Stack.exe
+C:\Users\63not\source\repos\Day14_2\Day14_2\bin\Debug\netcoreapp3.1\Day14Stack.deps.json
+C:\Users\63not\source\repos\Day14_2\Day14_2\bin\Debug\netcoreapp3.1\Day14Stack.runtimeconfig.json
+C:\Users\63not\source\repos\Day14_2\Day14_2\bin\Debug\netcoreapp3.1\Day14Stack.runtimeconfig.dev.json
+C:\Users\63not\source\repos\Day14_2\Day14_2\bin\Debug\netcoreapp3.1\Day14Stack.dll
+C:\Users\63not\source\repos\Day14_2\Day14_2\bin\Debug\netcoreapp3.1\Day14Stack.pdb
+C:\Users\63not\source\repos\Day14_2\Day14_2\obj\Debug\netcoreapp3.1\Day14Stack.csproj.AssemblyReference.cache
+C:\Users\63not\source\repos\Day14_2\Day14_2\obj\Debug\netcoreapp3.1\Day14Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63not\source\repos\Day14_2\Day14_2\obj\Debug\netcoreapp3.1\Day14Stack.AssemblyInfoInputs.cache
+C:\Users\63not\source\repos\Day14_2\Day14_2\obj\Debug\netcoreapp3.1\Day14Stack.AssemblyInfo.cs
+C:\Users\63not\source\repos\Day14_2\Day14_2\obj\Debug\netcoreapp3.1\Day14Stack.csproj.CoreCompileInputs.cache
+C:\Users\63not\source\repos\Day14_2\Day14_2\obj\Debug\netcoreapp3.1\Day14Stack.dll
+C:\Users\63not\source\repos\Day14_2\Day14_2\obj\Debug\netcoreapp3.1\Day14Stack.pdb
+C:\Users\63not\source\repos\Day14_2\Day14_2\obj\Debug\netcoreapp3.1\Day14Stack.genruntimeconfig.cache
